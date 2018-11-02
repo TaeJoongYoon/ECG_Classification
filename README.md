@@ -29,5 +29,5 @@ I use DNNClassifier in tensorflow.
 
 - Accuracy :  About 75%
 
-![Result](./result.png)
+![Result](./README/result.png)
 
