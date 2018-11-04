@@ -1,4 +1,4 @@
-# ECG Classfication
+# ECG Classification
 
 This project is machine learning algorithm to classify/detect arrhythmia.
 
