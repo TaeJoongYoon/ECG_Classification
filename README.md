@@ -6,12 +6,14 @@ I use DNNClassifier in tensorflow.
 
 
 
-### Requirements
+### Environment
 
 ---
 
 1. python 3.5.2
 2. tensorflow-gpu 1.10.0
+3. intel i7-7700K
+4. GeForce GTX 1080 x 2 
 
 
 
