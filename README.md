@@ -21,9 +21,8 @@ I use DNNClassifier in tensorflow.
 
 ---
 
-1. Run ***create_dataset.ipynb***
-2. Run ***classfication.ipynb***
-3. That's all
+1. Run ***ECG_Classification.ipynb***
+2. That's all
 
 ### Result
 
